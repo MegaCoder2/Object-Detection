@@ -1,0 +1,20 @@
+body
+{
+    background-color: lightgreen;
+}
+.button:hover
+{
+    background-color: lightskyblue
+}
+.button
+{
+    width: 250px;
+    height: 26px;
+    border-radius: 7.5px;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}

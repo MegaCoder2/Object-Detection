@@ -2,6 +2,10 @@ body
 {
     background-color: lightgreen;
 }
+canvas
+{
+    box-shadow: 10px 10px 10px gray;
+}
 .button:hover
 {
     background-color: lightskyblue
